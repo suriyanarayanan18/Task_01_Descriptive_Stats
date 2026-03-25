@@ -8,7 +8,7 @@ The dataset contains information about ad purchases including the sponsoring org
 
 ## Dataset
 
-**Source:** [2024 Facebook Political Ads (Google Drive)](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+**Source:** [2024 Facebook Political Ads (Google Drive)](https://drive.google.com/file/d/1gvtvX8fATFrrzraPmTSf205U8u3JExUR/view?usp=sharing)
 
 The dataset file is not included in this repository due to its size (46 MB). To run the scripts:
 
