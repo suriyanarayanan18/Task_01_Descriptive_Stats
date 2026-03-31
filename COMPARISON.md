@@ -34,9 +34,9 @@ The pure Python script took significantly longer to write roughly 3x the time, b
 
 | Aspect | Pure Python | Pandas |
 |--------|------------|--------|
-| Lines of code | ~220 | ~120 |
+| Lines of code | 271 |  144 |
 | External dependencies | None | pandas |
-| Load time (246K rows) | ~20 seconds | ~3 seconds |
+| Load time (246K rows) | >15 seconds | <5 seconds |
 | Type detection | Manual sampling | Automatic (dtypes) |
 | Std dev default | Population (n) | Sample (n-1) |
 | Range column handling | Custom parser | Custom parser (same) |
