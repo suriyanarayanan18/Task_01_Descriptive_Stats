@@ -79,6 +79,4 @@ Both scripts produce matching results across all key metrics. Notable difference
 
 For the full comparison, see [COMPARISON.md](COMPARISON.md).
 
-## Author
 
-Suriya Narayanan 
